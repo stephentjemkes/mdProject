@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+source ${HOME}/.muprc
+api_configuration_path=`pwd`
+api_dir=${HOME}/MaatDafSource/MaatDafApp
+python3 ${api_dir}/MaatDafApp.py --api_configuration_path ${api_configuration_path} --api_configuration wfre_elda_aug19_ctrl.json -o start=cold -y

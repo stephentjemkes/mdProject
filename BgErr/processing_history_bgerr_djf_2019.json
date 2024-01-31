@@ -1,0 +1,22 @@
+{
+    "1": {
+        "current cycle": {
+            "completed cycle number": 0,
+            "cycle number": 1
+        },
+        "status": {
+            "deterministic_forecast": "start",
+            "save diagnostic results": "start"
+        },
+        "time axis": {
+            "AnalysisTime": "2019120100",
+            "ForecastWindowEnd": "2019120200",
+            "ForecastWindowSampling": 3600,
+            "ForecastWindowStart": "2019120100",
+            "InitialAnalysisTime": "2019120100",
+            "PreviousAnalysisTime": "2019113012",
+            "initial condition": "2019120100"
+        }
+    },
+    "current_cycle": "1"
+}

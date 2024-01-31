@@ -1,0 +1,464 @@
+{
+    "1": {
+        "current cycle": {
+            "completed cycle number": 0,
+            "cycle number": 1
+        },
+        "status": {
+            "ensemble": "completed",
+            "ensemble_members": {
+                "conus_00_00_00": "completed",
+                "conus_00_01_00": "completed",
+                "conus_01_00_00": "completed",
+                "conus_01_01_00": "completed",
+                "conus_02_00_00": "completed",
+                "conus_02_01_00": "completed",
+                "conus_03_00_00": "completed",
+                "conus_03_01_00": "completed",
+                "tropical_00_00_00": "completed",
+                "tropical_00_01_00": "completed",
+                "tropical_01_00_00": "completed",
+                "tropical_01_01_00": "completed",
+                "tropical_02_00_00": "completed",
+                "tropical_02_01_00": "completed",
+                "tropical_03_00_00": "completed",
+                "tropical_03_01_00": "completed"
+            },
+            "genbe": "completed",
+            "genbe_v2": "start",
+            "main assimilation": "completed",
+            "obsproc": "completed",
+            "prepare assimilation": "completed",
+            "prepare multiple ic": "completed",
+            "save diagnostic results": "completed",
+            "save update initial conditions": "completed"
+        },
+        "time axis": {
+            "AnalysisTime": "2019081606",
+            "AssimilationWindowEnd": "2019081609",
+            "AssimilationWindowSampling": 3600,
+            "AssimilationWindowStart": "2019081603",
+            "EnsembleWindowEnd": "2019081609",
+            "EnsembleWindowSampling": 10800,
+            "EnsembleWindowStart": "2019081521",
+            "InitialAnalysisTime": "2019081606",
+            "PreviousAnalysisTime": "2019081600",
+            "initial condition": "2019081521"
+        }
+    },
+    "10": {
+        "current cycle": {
+            "completed cycle number": 9,
+            "cycle number": 10
+        },
+        "status": {
+            "ensemble": "start",
+            "ensemble_members": {
+                "conus_00_00_00": "start",
+                "conus_00_01_00": "start",
+                "conus_01_00_00": "start",
+                "conus_01_01_00": "start",
+                "conus_02_00_00": "start",
+                "conus_02_01_00": "start",
+                "conus_03_00_00": "start",
+                "conus_03_01_00": "start",
+                "tropical_00_00_00": "start",
+                "tropical_00_01_00": "start",
+                "tropical_01_00_00": "start",
+                "tropical_01_01_00": "start",
+                "tropical_02_00_00": "start",
+                "tropical_02_01_00": "start",
+                "tropical_03_00_00": "start",
+                "tropical_03_01_00": "start"
+            },
+            "genbe": "start",
+            "genbe_v2": "start",
+            "main assimilation": "start",
+            "obsproc": "start",
+            "prepare assimilation": "start",
+            "prepare multiple ic": "start",
+            "save diagnostic results": "start",
+            "save update initial conditions": "start"
+        },
+        "time axis": {
+            "AnalysisTime": "2019081812",
+            "AssimilationWindowEnd": "2019081815",
+            "AssimilationWindowSampling": 3600,
+            "AssimilationWindowStart": "2019081809",
+            "EnsembleWindowEnd": "2019081815",
+            "EnsembleWindowSampling": 10800,
+            "EnsembleWindowStart": "2019081806",
+            "InitialAnalysisTime": "2019081606",
+            "PreviousAnalysisTime": "2019081806"
+        }
+    },
+    "2": {
+        "current cycle": {
+            "completed cycle number": 1,
+            "cycle number": 2
+        },
+        "status": {
+            "ensemble": "completed",
+            "ensemble_members": {
+                "conus_00_00_00": "completed",
+                "conus_00_01_00": "completed",
+                "conus_01_00_00": "completed",
+                "conus_01_01_00": "completed",
+                "conus_02_00_00": "completed",
+                "conus_02_01_00": "completed",
+                "conus_03_00_00": "completed",
+                "conus_03_01_00": "completed",
+                "tropical_00_00_00": "completed",
+                "tropical_00_01_00": "completed",
+                "tropical_01_00_00": "completed",
+                "tropical_01_01_00": "completed",
+                "tropical_02_00_00": "completed",
+                "tropical_02_01_00": "completed",
+                "tropical_03_00_00": "completed",
+                "tropical_03_01_00": "completed"
+            },
+            "genbe": "completed",
+            "genbe_v2": "start",
+            "main assimilation": "completed",
+            "obsproc": "completed",
+            "prepare assimilation": "completed",
+            "prepare multiple ic": "completed",
+            "save diagnostic results": "completed",
+            "save update initial conditions": "completed"
+        },
+        "time axis": {
+            "AnalysisTime": "2019081612",
+            "AssimilationWindowEnd": "2019081615",
+            "AssimilationWindowSampling": 3600,
+            "AssimilationWindowStart": "2019081609",
+            "EnsembleWindowEnd": "2019081615",
+            "EnsembleWindowSampling": 10800,
+            "EnsembleWindowStart": "2019081606",
+            "InitialAnalysisTime": "2019081606",
+            "PreviousAnalysisTime": "2019081606"
+        }
+    },
+    "3": {
+        "current cycle": {
+            "completed cycle number": 2,
+            "cycle number": 3
+        },
+        "status": {
+            "ensemble": "completed",
+            "ensemble_members": {
+                "conus_00_00_00": "completed",
+                "conus_00_01_00": "completed",
+                "conus_01_00_00": "completed",
+                "conus_01_01_00": "completed",
+                "conus_02_00_00": "completed",
+                "conus_02_01_00": "completed",
+                "conus_03_00_00": "completed",
+                "conus_03_01_00": "completed",
+                "tropical_00_00_00": "completed",
+                "tropical_00_01_00": "completed",
+                "tropical_01_00_00": "completed",
+                "tropical_01_01_00": "completed",
+                "tropical_02_00_00": "completed",
+                "tropical_02_01_00": "completed",
+                "tropical_03_00_00": "completed",
+                "tropical_03_01_00": "completed"
+            },
+            "genbe": "completed",
+            "genbe_v2": "start",
+            "main assimilation": "completed",
+            "obsproc": "completed",
+            "prepare assimilation": "completed",
+            "prepare multiple ic": "completed",
+            "save diagnostic results": "completed",
+            "save update initial conditions": "completed"
+        },
+        "time axis": {
+            "AnalysisTime": "2019081618",
+            "AssimilationWindowEnd": "2019081621",
+            "AssimilationWindowSampling": 3600,
+            "AssimilationWindowStart": "2019081615",
+            "EnsembleWindowEnd": "2019081621",
+            "EnsembleWindowSampling": 10800,
+            "EnsembleWindowStart": "2019081612",
+            "InitialAnalysisTime": "2019081606",
+            "PreviousAnalysisTime": "2019081612"
+        }
+    },
+    "4": {
+        "current cycle": {
+            "completed cycle number": 3,
+            "cycle number": 4
+        },
+        "status": {
+            "ensemble": "completed",
+            "ensemble_members": {
+                "conus_00_00_00": "completed",
+                "conus_00_01_00": "completed",
+                "conus_01_00_00": "completed",
+                "conus_01_01_00": "completed",
+                "conus_02_00_00": "completed",
+                "conus_02_01_00": "completed",
+                "conus_03_00_00": "completed",
+                "conus_03_01_00": "completed",
+                "tropical_00_00_00": "completed",
+                "tropical_00_01_00": "completed",
+                "tropical_01_00_00": "completed",
+                "tropical_01_01_00": "completed",
+                "tropical_02_00_00": "completed",
+                "tropical_02_01_00": "completed",
+                "tropical_03_00_00": "completed",
+                "tropical_03_01_00": "completed"
+            },
+            "genbe": "completed",
+            "genbe_v2": "start",
+            "main assimilation": "completed",
+            "obsproc": "completed",
+            "prepare assimilation": "completed",
+            "prepare multiple ic": "completed",
+            "save diagnostic results": "completed",
+            "save update initial conditions": "completed"
+        },
+        "time axis": {
+            "AnalysisTime": "2019081700",
+            "AssimilationWindowEnd": "2019081703",
+            "AssimilationWindowSampling": 3600,
+            "AssimilationWindowStart": "2019081621",
+            "EnsembleWindowEnd": "2019081703",
+            "EnsembleWindowSampling": 10800,
+            "EnsembleWindowStart": "2019081618",
+            "InitialAnalysisTime": "2019081606",
+            "PreviousAnalysisTime": "2019081618"
+        }
+    },
+    "5": {
+        "current cycle": {
+            "completed cycle number": 4,
+            "cycle number": 5
+        },
+        "status": {
+            "ensemble": "completed",
+            "ensemble_members": {
+                "conus_00_00_00": "completed",
+                "conus_00_01_00": "completed",
+                "conus_01_00_00": "completed",
+                "conus_01_01_00": "completed",
+                "conus_02_00_00": "completed",
+                "conus_02_01_00": "completed",
+                "conus_03_00_00": "completed",
+                "conus_03_01_00": "completed",
+                "tropical_00_00_00": "completed",
+                "tropical_00_01_00": "completed",
+                "tropical_01_00_00": "completed",
+                "tropical_01_01_00": "completed",
+                "tropical_02_00_00": "completed",
+                "tropical_02_01_00": "completed",
+                "tropical_03_00_00": "completed",
+                "tropical_03_01_00": "completed"
+            },
+            "genbe": "completed",
+            "genbe_v2": "start",
+            "main assimilation": "completed",
+            "obsproc": "completed",
+            "prepare assimilation": "completed",
+            "prepare multiple ic": "completed",
+            "save diagnostic results": "completed",
+            "save update initial conditions": "completed"
+        },
+        "time axis": {
+            "AnalysisTime": "2019081706",
+            "AssimilationWindowEnd": "2019081709",
+            "AssimilationWindowSampling": 3600,
+            "AssimilationWindowStart": "2019081703",
+            "EnsembleWindowEnd": "2019081709",
+            "EnsembleWindowSampling": 10800,
+            "EnsembleWindowStart": "2019081700",
+            "InitialAnalysisTime": "2019081606",
+            "PreviousAnalysisTime": "2019081700"
+        }
+    },
+    "6": {
+        "current cycle": {
+            "completed cycle number": 5,
+            "cycle number": 6
+        },
+        "status": {
+            "ensemble": "completed",
+            "ensemble_members": {
+                "conus_00_00_00": "completed",
+                "conus_00_01_00": "completed",
+                "conus_01_00_00": "completed",
+                "conus_01_01_00": "completed",
+                "conus_02_00_00": "completed",
+                "conus_02_01_00": "completed",
+                "conus_03_00_00": "completed",
+                "conus_03_01_00": "completed",
+                "tropical_00_00_00": "completed",
+                "tropical_00_01_00": "completed",
+                "tropical_01_00_00": "completed",
+                "tropical_01_01_00": "completed",
+                "tropical_02_00_00": "completed",
+                "tropical_02_01_00": "completed",
+                "tropical_03_00_00": "completed",
+                "tropical_03_01_00": "completed"
+            },
+            "genbe": "completed",
+            "genbe_v2": "start",
+            "main assimilation": "completed",
+            "obsproc": "completed",
+            "prepare assimilation": "completed",
+            "prepare multiple ic": "completed",
+            "save diagnostic results": "completed",
+            "save update initial conditions": "completed"
+        },
+        "time axis": {
+            "AnalysisTime": "2019081712",
+            "AssimilationWindowEnd": "2019081715",
+            "AssimilationWindowSampling": 3600,
+            "AssimilationWindowStart": "2019081709",
+            "EnsembleWindowEnd": "2019081715",
+            "EnsembleWindowSampling": 10800,
+            "EnsembleWindowStart": "2019081706",
+            "InitialAnalysisTime": "2019081606",
+            "PreviousAnalysisTime": "2019081706"
+        }
+    },
+    "7": {
+        "current cycle": {
+            "completed cycle number": 6,
+            "cycle number": 7
+        },
+        "status": {
+            "ensemble": "completed",
+            "ensemble_members": {
+                "conus_00_00_00": "completed",
+                "conus_00_01_00": "completed",
+                "conus_01_00_00": "completed",
+                "conus_01_01_00": "completed",
+                "conus_02_00_00": "completed",
+                "conus_02_01_00": "completed",
+                "conus_03_00_00": "completed",
+                "conus_03_01_00": "completed",
+                "tropical_00_00_00": "completed",
+                "tropical_00_01_00": "completed",
+                "tropical_01_00_00": "completed",
+                "tropical_01_01_00": "completed",
+                "tropical_02_00_00": "completed",
+                "tropical_02_01_00": "completed",
+                "tropical_03_00_00": "completed",
+                "tropical_03_01_00": "completed"
+            },
+            "genbe": "completed",
+            "genbe_v2": "start",
+            "main assimilation": "completed",
+            "obsproc": "completed",
+            "prepare assimilation": "completed",
+            "prepare multiple ic": "completed",
+            "save diagnostic results": "completed",
+            "save update initial conditions": "completed"
+        },
+        "time axis": {
+            "AnalysisTime": "2019081718",
+            "AssimilationWindowEnd": "2019081721",
+            "AssimilationWindowSampling": 3600,
+            "AssimilationWindowStart": "2019081715",
+            "EnsembleWindowEnd": "2019081721",
+            "EnsembleWindowSampling": 10800,
+            "EnsembleWindowStart": "2019081712",
+            "InitialAnalysisTime": "2019081606",
+            "PreviousAnalysisTime": "2019081712"
+        }
+    },
+    "8": {
+        "current cycle": {
+            "completed cycle number": 7,
+            "cycle number": 8
+        },
+        "status": {
+            "ensemble": "completed",
+            "ensemble_members": {
+                "conus_00_00_00": "completed",
+                "conus_00_01_00": "completed",
+                "conus_01_00_00": "completed",
+                "conus_01_01_00": "completed",
+                "conus_02_00_00": "completed",
+                "conus_02_01_00": "completed",
+                "conus_03_00_00": "completed",
+                "conus_03_01_00": "completed",
+                "tropical_00_00_00": "completed",
+                "tropical_00_01_00": "completed",
+                "tropical_01_00_00": "completed",
+                "tropical_01_01_00": "completed",
+                "tropical_02_00_00": "completed",
+                "tropical_02_01_00": "completed",
+                "tropical_03_00_00": "completed",
+                "tropical_03_01_00": "completed"
+            },
+            "genbe": "completed",
+            "genbe_v2": "start",
+            "main assimilation": "completed",
+            "obsproc": "completed",
+            "prepare assimilation": "completed",
+            "prepare multiple ic": "completed",
+            "save diagnostic results": "completed",
+            "save update initial conditions": "completed"
+        },
+        "time axis": {
+            "AnalysisTime": "2019081800",
+            "AssimilationWindowEnd": "2019081803",
+            "AssimilationWindowSampling": 3600,
+            "AssimilationWindowStart": "2019081721",
+            "EnsembleWindowEnd": "2019081803",
+            "EnsembleWindowSampling": 10800,
+            "EnsembleWindowStart": "2019081718",
+            "InitialAnalysisTime": "2019081606",
+            "PreviousAnalysisTime": "2019081718"
+        }
+    },
+    "9": {
+        "current cycle": {
+            "completed cycle number": 8,
+            "cycle number": 9
+        },
+        "status": {
+            "ensemble": "completed",
+            "ensemble_members": {
+                "conus_00_00_00": "completed",
+                "conus_00_01_00": "completed",
+                "conus_01_00_00": "completed",
+                "conus_01_01_00": "completed",
+                "conus_02_00_00": "completed",
+                "conus_02_01_00": "completed",
+                "conus_03_00_00": "completed",
+                "conus_03_01_00": "completed",
+                "tropical_00_00_00": "completed",
+                "tropical_00_01_00": "completed",
+                "tropical_01_00_00": "completed",
+                "tropical_01_01_00": "completed",
+                "tropical_02_00_00": "completed",
+                "tropical_02_01_00": "completed",
+                "tropical_03_00_00": "completed",
+                "tropical_03_01_00": "completed"
+            },
+            "genbe": "completed",
+            "genbe_v2": "start",
+            "main assimilation": "completed",
+            "obsproc": "completed",
+            "prepare assimilation": "completed",
+            "prepare multiple ic": "completed",
+            "save diagnostic results": "completed",
+            "save update initial conditions": "completed"
+        },
+        "time axis": {
+            "AnalysisTime": "2019081806",
+            "AssimilationWindowEnd": "2019081809",
+            "AssimilationWindowSampling": 3600,
+            "AssimilationWindowStart": "2019081803",
+            "EnsembleWindowEnd": "2019081809",
+            "EnsembleWindowSampling": 10800,
+            "EnsembleWindowStart": "2019081800",
+            "InitialAnalysisTime": "2019081606",
+            "PreviousAnalysisTime": "2019081800"
+        }
+    },
+    "current_cycle": "10"
+}
