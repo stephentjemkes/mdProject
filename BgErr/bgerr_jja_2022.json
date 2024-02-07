@@ -1,5 +1,5 @@
 {
-    "description": "preparing a bgerr for son in 2022", 
+    "description": "preparing a bgerr for jja in 2022", 
     "general":{
 	"project": "Bgerr",
 	"case": "high_res",
@@ -16,14 +16,14 @@
     "domains":{
 	"spatial": { "identifier":"north_west_europe",
 		     "projection": "lambert",
-		     "resolution": "9x9"
+		     "resolution": "dual"
 		   },
 	"temporal": {
-	    "identifier" : "son",
+	    "identifier" : "jja",
 	    "initial condition":"2022053121",
 	    "start":"2022060100",
 	    "first analysis":"2022060106",
-	    "end":"2022063018"},
+	    "end":"2022070100"},
 	"lbc": {
 	    "provider": "ecmwf",
 	    "temporal sampling": 3,
@@ -75,6 +75,39 @@
 	"window":{
 	    "width":{
 		"hours":6
+	    },
+	    "sampling":{
+		"seconds":10800,
+		"hours":3
+	    }
+	}
+    },
+   "deterministic":{
+	"exe":{
+	    "real":"real.exe",
+	    "wrf":"wrf.exe",
+	    "update":"da_update_bc.exe"
+	},
+	"run_time":{"run_time":"",
+		    "physical_packages":["conus","tropical"],
+		    "max_skeb_runs":1,
+		    "max_sppt_runs":1,
+		    "max_initial_conditions":1,
+		    "interval_seconds":10800,
+		    "sampling":{
+			"seconds":10800
+		    },
+		    "history_interval":60,
+		    "domain top [hpa]": 10
+		   },
+	"valid_physical_packages" : ["conus", "tropical"],
+	"reference ensemble member": "conus",
+	"forecast":{
+	    "length":{
+		"hours":48
+	    },
+	    "cycle":{
+		"hours": 12
 	    },
 	    "sampling":{
 		"seconds":10800,

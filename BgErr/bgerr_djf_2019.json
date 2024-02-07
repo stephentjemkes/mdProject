@@ -21,9 +21,9 @@
 	"temporal": {
 	    "identifier" : "djf",
 	    "initial condition":"2019120100",
-	    "start":"2019122400",
-	    "first analysis":"2019120600",
-	    "end":"2019123118"},
+	    "start":"2019120100",
+	    "first analysis":"2019120106",
+	    "end":"2020010100"},
 	"lbc": {
 	    "provider": "ecmwf",
 	    "temporal sampling": 3,
